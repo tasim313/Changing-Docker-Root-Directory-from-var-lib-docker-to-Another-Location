@@ -71,4 +71,4 @@ Additionally, run docker ps to ensure everything is functioning properly, and co
 Check Disk Space: Ensure the new directory is mounted on a disk with enough space for Docker data.
 - df -h /mnt/docker-data
 
-blog [(https://linuxconfig.org/how-to-move-docker-s-default-var-lib-docker-to-another-directory-on-ubuntu-debian-linux)]
+blog https://linuxconfig.org/how-to-move-docker-s-default-var-lib-docker-to-another-directory-on-ubuntu-debian-linux
