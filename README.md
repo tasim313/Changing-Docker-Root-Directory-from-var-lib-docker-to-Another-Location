@@ -72,3 +72,5 @@ Check Disk Space: Ensure the new directory is mounted on a disk with enough spac
 - df -h /mnt/docker-data
 
 blog https://linuxconfig.org/how-to-move-docker-s-default-var-lib-docker-to-another-directory-on-ubuntu-debian-linux
+
+Co-authored-by: prantorishere <sharifrahman256@gmail.com>
